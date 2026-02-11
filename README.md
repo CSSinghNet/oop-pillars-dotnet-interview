@@ -150,9 +150,10 @@ Interview line: Abstraction separates what system does from how it does.
 
 # 🎯 Senior-Level Interview Answer
 
-In real .NET applications: - Encapsulation protects domain data\
-- Inheritance centralizes shared behavior\
-- Polymorphism enables DI and flexible implementations\
+In real .NET applications: 
+- Encapsulation protects domain data
+- Inheritance centralizes shared behavior
+- Polymorphism enables DI and flexible implementations
 - Abstraction defines architecture boundaries
 
 Used heavily while designing scalable APIs and enterprise systems.
